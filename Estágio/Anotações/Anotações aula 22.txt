@@ -1,0 +1,28 @@
+
+- criar ambiente virtual
+    python -m venv diretorio\venv
+
+- ativar ambiente virtual
+    venv\Scripts\activate
+
+- desativar ambiente virtual
+    venv\Scripts\deactivate
+
+- verificar quais pacotes estao instalados
+    pip freeze
+
+- gerar arquivo contendo os módulos necessários
+    pip freeze > requirements.txt
+
+- importar módulos a partir de um arquivo 
+    pip freeze -r requirements.txt
+
+==================================================
+Fluxo do projeto
+
+Banco de dados - MySQL
+
+API - Flask
+
+Front-end - Bootstrap
+

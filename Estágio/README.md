@@ -1,0 +1,2 @@
+Tive a oportunidade de estágiar como desenvolvedora no Tribunal de Contas do Estado de Mato Grosso do Sul na equipe STI,
+ao logo do estágio fui orientado por um desenvolvedor chamado Rodrigo, ele dava aulas todas as quartas feiras. Compartilho um pouco do que pude aprender dessa jornada.

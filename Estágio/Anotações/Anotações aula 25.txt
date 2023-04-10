@@ -1,0 +1,12 @@
+pip install nome_biblioteca
+
+- Bibliotecas necessárias:
+    - Flask-Migrate
+    - Flask-RESTful
+    - SQLAlchemy
+    - Flask-SQLAlchemy
+    - marshmallow-sqlalchemy (validação de dados la nos schemas)
+    - flask-marshmallow
+    - mysqlclient
+
+pip freeze > nome_do_arquivo.txt

@@ -1,0 +1,9 @@
+- Ordem de criação (sugestão):
+    - models
+    - entidades
+    - schemas
+    - services (cada def da service vai ser usado em uma def da view, pelo menos no começo)
+    - views 
+
+    - executar as migrations
+

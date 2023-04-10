@@ -1,0 +1,3 @@
+-- Classes
+
+    - self = significa que estou passando a propria classe para a classe

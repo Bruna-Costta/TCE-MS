@@ -1,0 +1,21 @@
+Estrutura da nossa API.
+
+- models
+    Modelo das estruturas de dados do banco. Tabelas, colunas, tipos, 
+    atributos, etc.
+
+- Entidades
+    Será utilizado para recuperar os getters e setters do model
+
+- views
+    Lógica de negócio, rotas, etc.
+
+- services
+    Vai dialogar com as funções do ORM (SQL Alchemy), isso aqui poderia
+    ficar em views, assim como os itens acima poderiam estar misturados.
+    Será feito nessa estrutura para seguir uma organização/arquitetura.
+    O CRUD ficará aqui.
+
+- schemas
+    Para validar dados dos models.
+

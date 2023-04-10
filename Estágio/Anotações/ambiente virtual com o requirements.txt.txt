@@ -1,0 +1,38 @@
+1)
+- criar ambiente virtual
+    python -m venv diretorio\venv
+2)
+- ativar ambiente virtual
+    venv\Scripts\activate
+
+- desativar ambiente virtual
+    venv\Scripts\deactivate
+3)
+- instala
+   pip install flask
+
+4)
+- verificar quais pacotes estao instalados
+    pip freeze
+
+
+- gerar arquivo contendo os módulos necessários
+    pip freeze > requirements.txt
+5)
+- importar módulos a partir de um arquivo 
+    pip freeze -r requirements.txt
+6)
+-- Colocar pra rodar
+    python app.py
+
+
+
+==================================================
+Fluxo do projeto
+
+Banco de dados - MySQL
+
+API - Flask
+
+Front-end - Bootstrap
+

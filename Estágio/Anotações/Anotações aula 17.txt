@@ -1,0 +1,34 @@
+-------------------------------------------------------------
+Quando não tenho uma cópia do projeto ainda:
+	- git clone link.git
+-------------------------------------------------------------
+Quando já tenho uma copia do projeto no meu computador e preciso atualizar:
+	- git pull
+-------------------------------------------------------------	
+Quando preciso enviar meus arquivos para o servidor:
+	- git push origin nome_da_branch 
+-------------------------------------------------------------	
+adicionar um arquivo ao monitoramento do git: 
+	- git add nome_do_arquivo OU
+	- git add * (para add todos os arquivos de uma vez)
+-------------------------------------------------------------	
+commit da modificação
+	- git commit -m "mensagem do commit"
+-------------------------------------------------------------
+O que é branch:
+	Branch é uma ramificação do projeto.
+	main --- main --- main -				-- main -- main --
+							|				|
+							|-- ATV#00001 --| -- -- ---
+-------------------------------------------------------------
+Fluxo para criar uma branch
+	- estar na branch que vc quer criar uma cópia
+	- git pull
+	- git checkout -b ATV#00001
+-------------------------------------------------------------	
+O que é merge:
+	Unir uma branch em outra.
+-------------------------------------------------------------
+Como acessar uma branch
+	- git checkout nome_da_branch
+-------------------------------------------------------------

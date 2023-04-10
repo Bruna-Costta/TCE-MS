@@ -1,0 +1,10 @@
+- API
+    - Lado do servidor
+        - servir, quando solicitada
+
+- Banco de dados
+    - Lado do servidor
+        - servir, quando api solicitar
+
+- Cliente
+    - front-end
